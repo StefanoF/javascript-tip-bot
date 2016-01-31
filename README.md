@@ -1,4 +1,4 @@
-# javascript-tip-bot
+# javascript-tip-bot (on working progress)
 Telegram Bot who returns useful javascript programming tip (ES5) 
 
 ## Demo

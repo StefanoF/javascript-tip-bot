@@ -12,7 +12,7 @@ Find JavascriptTipBot from your Telegram app and add it: https://telegram.me/jav
 | /giveme | return a random tip about Javascript programming (ES5) |
 | /start | return a welcome message |
 
-## How to install? 
+## How to test locally? 
 1. Clone this repository: ```git clone https://github.com/StefanoF/javascript-tip-bot```
 2. update config/telegram.js with your telegram bot token
 3. Install dependencies and run the server locally:

@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+p, div {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.title {
+	font-size: 80px;
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.subtitle {
+	font-size: 42px;
+	margin-bottom: 60px;
+}
+.telegram .icon{
+	width: 42px;
+	height: 42px;
+}

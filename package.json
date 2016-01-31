@@ -1,0 +1,13 @@
+{
+  "name": "javascript-tip-bot",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "~4.0.0",
+    "fs": "latest",
+    "method-override": "~1.0.0",
+    "morgan": "~1.0.0",
+    "request": "latest"
+  }
+}

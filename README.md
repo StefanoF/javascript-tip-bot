@@ -13,12 +13,9 @@ Find JavascriptTipBot from your Telegram app and add it: https://telegram.me/jav
 | /start | return a welcome message |
 
 ## How to install? 
-1. Clone this repository:
-```
-git clone https://github.com/StefanoF/javascript-tip-bot
-```
+1. Clone this repository: ```git clone https://github.com/StefanoF/javascript-tip-bot```
 2. update config/telegram.js with your bot key
-3. Install dependencies and run the server locally
+3. Install dependencies and run the server locally:
 ```
 npm install
 node server.js
